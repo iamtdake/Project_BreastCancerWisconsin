@@ -4,13 +4,13 @@ This project intended to make a predictive model for breast cancer diagnosis usi
 
 **Data features list:**
 
-<ins>Sample code number</ins> is the identifier for each sample of tissue. 
+<ins>Sample Code Number</ins> is the identifier for each sample of tissue. 
 
-<ins>Clump thickness</ins> is the thickness of cell clusters of the tumor. 
+<ins>Clump Thickness</ins> is the thickness of cell clusters of the tumor. 
 
-<ins>Uniformity of cell Size</ins> is how much alike the cells are to each other in size in the tumor.  
+<ins>Uniformity of Cell Size</ins> is how much alike the cells are to each other in size in the tumor.  
 
-<ins>Uniformity of cell Shape</ins>  is how much alike the cells are to each other in shape. 
+<ins>Uniformity of Cell Shape</ins>  is how much alike the cells are to each other in shape. 
 
 <ins>Marginal Adhesion</ins> is the amount that the tumor cells are sticking to the surrounding tissue. 
 
