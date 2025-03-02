@@ -2,7 +2,8 @@
 Analysis of Breast Cancer Wisconsin Dataset
 This project intended to make a predictive model for breast cancer diagnosis using KNeighborsClassifier. The data was reviewed, cleaned, and processed to be used for training the learning model. After training the machine learning algorithm, it was evaluated on performance and each score’s weighted average percent was high, precision was at 97%, recall at 97%, F1-Score at 97%, and accuracy at 97%. The analysis of the Breast Cancer Wisconsin data helped show that machine learning can assist in breast cancer diagnosis. This model could be a great tool for assisting professionals with identifying cancer quickly to provide fast and accurate service as doctors care for their patients. 
 
-**Data features liste:**
+**Data features list:**
+
 <ins>Sample code number</ins> is the identifier for each sample of tissue. 
 
 <ins>Clump thickness</ins> is the thickness of cell clusters of the tumor. 
